@@ -1,7 +1,7 @@
 {
   "name": "website-health",
   "version": "0.1.0",
-  "homepage": "https://RamadanMufian.github.io/website-kesehatan",
+  "homepage": "https://ramadanmufian.github.io/cekkesehatan/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
